@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related PROD APIs "
+  contactDetails:
+    name: "lilly Doe - Product Owner"
+    email: "lilly@eazybank.com"
+  onCallSupport:
+    - (777) 555-1234
+    - (777) 523-1345
